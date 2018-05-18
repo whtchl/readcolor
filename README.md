@@ -15,5 +15,4 @@ ImageFindDemo.java : keyImagePath:标准图片，对比图片
                      
       <img src="https://raw.githubusercontent.com/whtchl/readcolor/master/pic/index_html.png"/>
        <img src="https://raw.githubusercontent.com/whtchl/readcolor/master/pic/keyImagePath.png"/>
-<img src="https://raw.githubusercontent.com/whtchl/Liaomei/master/art/demo2.gif"/>
-<img src="https://raw.githubusercontent.com/whtchl/Liaomei/master/art/demo2.gif"/>
+
