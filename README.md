@@ -13,3 +13,4 @@ ImageFindDemo.java : keyImagePath:标准图片，对比图片
                      
   index.html:  <!--html:传入图片，列出图片中所有的像素，且像素出现的次数  -->
                      
+      <img src="https://raw.githubusercontent.com/whtchl/readcolor/master/pic/index_html.png"/>
